@@ -1,6 +1,6 @@
-# particle
+# Weather Station
 
-A Particle project named particle
+A Particle project named Weather Station
 
 ## Welcome to your project!
 
